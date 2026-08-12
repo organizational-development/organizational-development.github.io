@@ -27,7 +27,10 @@ export function load() {
       tagline,
       count: list.length,
       strongest: list
-        .filter((topic) => topic.evidence)
+        // Models only. A questionnaire shares its model's rating, so letting
+        // both in would show the same evidence twice and crowd out a family's
+        // third-best-evidenced model.
+        .filter((topic) => topic.evidence && !topic.model)
         .sort((a, b) => rank(a.evidence!.strength) - rank(b.evidence!.strength))
         .slice(0, 3)
         .map(({ slug, title: name, evidence }) => ({ slug, title: name, evidence }))
