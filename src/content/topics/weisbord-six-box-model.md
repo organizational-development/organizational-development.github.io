@@ -3,8 +3,8 @@
 Marvin Weisbord's 1976 six-box model is the fastest useful organizational
 diagnostic. Six boxes, one question each, plus an environment ring around them.
 
-**Evidence: Weak.** Never validated as a measurement model, and never tested
-for predictive value. It is a facilitation device: six prompts that reliably
+**Evidence: Weak.** Never validated as a measurement model, and never tested for
+predictive value. It is a facilitation device: six prompts that reliably
 generate a useful conversation in ninety minutes. The one component with
 independent support is the formal/informal distinction, which mirrors the
 well-documented espoused-theory versus theory-in-use gap. See

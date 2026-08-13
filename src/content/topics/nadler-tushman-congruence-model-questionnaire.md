@@ -49,8 +49,8 @@ a defined output produces an interesting document and no decision.
 
 2. People
 
-- Question: Who does the work? What are their skills, expectations,
-  preferences, and career stage?
+- Question: Who does the work? What are their skills, expectations, preferences,
+  and career stage?
   - Rating (1–5): [ ]
 
 3. Formal organization
@@ -109,8 +109,8 @@ This is the diagnostic core. Score each pair.
 
 1. Environment
 
-- Question: Have market, regulatory, technological, or funding conditions changed
-  in ways our components have not caught up with?
+- Question: Have market, regulatory, technological, or funding conditions
+  changed in ways our components have not caught up with?
   - Rating (1–5): [ ]
 
 2. Resources
@@ -138,13 +138,14 @@ This is the diagnostic core. Score each pair.
   easiest to change. The most common error is redesigning the Formal
   organization because it is the only component leadership directly controls.
 
-* **Formal ↔ Informal is usually where the diagnosis lands.** A large misfit here
-  means the organization has a documented system and a real system, and people
-  have learned which one to obey.
+* **Formal ↔ Informal is usually where the diagnosis lands.** A large misfit
+  here means the organization has a documented system and a real system, and
+  people have learned which one to obey.
 
-* **Work ↔ Formal misfit is the classic knowledge-work problem**: high-uncertainty,
-  highly interdependent work managed by structures designed for standardized
-  throughput. Expect workarounds, and read them as design feedback.
+* **Work ↔ Formal misfit is the classic knowledge-work problem**:
+  high-uncertainty, highly interdependent work managed by structures designed
+  for standardized throughput. Expect workarounds, and read them as design
+  feedback.
 
 * **A component can be excellent and still be the problem.** Excellent people in
   a badly fitting formal organization produce frustration and turnover, not
@@ -152,8 +153,7 @@ This is the diagnostic core. Score each pair.
 
 * **Congruence is necessary, not sufficient.** An organization perfectly aligned
   to a market that no longer exists scores well on every fit. If Step 4
-  environment scores are low, high fit scores are a warning, not a
-  reassurance.
+  environment scores are low, high fit scores are a warning, not a reassurance.
 
 * **Strategy sits outside the model**, so this questionnaire will never tell you
   the strategy is wrong. If that is the live question, use

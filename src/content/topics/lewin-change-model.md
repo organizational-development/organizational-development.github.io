@@ -28,8 +28,8 @@ Do not use when: you need operational detail. It is a frame, not a method.
 
 2. **Change (transition)**: the movement itself. New behaviors are tried,
    competence is temporarily low, and performance usually dips. This is the
-   stage most programs under-resource, because it looks like failure while it
-   is working. See [satir-change-model](../satir-change-model/).
+   stage most programs under-resource, because it looks like failure while it is
+   working. See [satir-change-model](../satir-change-model/).
 
 3. **Refreeze**: stabilize the new state so it becomes the default. Update
    policies, metrics, incentives, onboarding, and stories. Without refreeze the
@@ -62,8 +62,8 @@ joining next month does the new thing without being told.
 
 Lewin's own operational tool for stage 1. See
 [force-field-analysis](../force-field-analysis/). His key claim: reduce
-restraining forces rather than increasing driving forces, because added
-driving force raises tension and provokes counter-pressure.
+restraining forces rather than increasing driving forces, because added driving
+force raises tension and provokes counter-pressure.
 
 
 ## Examples by audience

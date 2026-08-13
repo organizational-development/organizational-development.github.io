@@ -11,8 +11,8 @@ ownership.
 
 **Evidence: Good.** Unusually well supported for an organizational claim. The
 mirroring hypothesis — that product architecture reflects organizational
-communication structure — has been tested empirically across commercial and
-open source codebases and generally confirmed. What is less established is the
+communication structure — has been tested empirically across commercial and open
+source codebases and generally confirmed. What is less established is the
 prescriptive half: that deliberately reorganizing to fit a target architecture
 reliably produces it.
 
@@ -43,7 +43,7 @@ in the room knows it.
 * Documentation that describes the org chart when asked about the system.
 
 
-## Beyond software
+## Examples by audience
 
 The law is stated about systems design, but the mechanism — communication
 structure constrains output structure — generalizes to any designed artifact.
@@ -54,11 +54,11 @@ structure constrains output structure — generalizes to any designed artifact.
   inverse Conway maneuver on clinical services.
 
 * **Software**: microservice boundaries that do not match team boundaries create
-  either constant cross-team coordination or de facto shared ownership.
-  See [team-topologies](../team-topologies/).
+  either constant cross-team coordination or de facto shared ownership. See
+  [team-topologies](../team-topologies/).
 
-* **Executive**: a product that customers experience as fragmented is usually
-  a product built by units that do not talk. Fixing the customer experience by
+* **Executive**: a product that customers experience as fragmented is usually a
+  product built by units that do not talk. Fixing the customer experience by
   adding a "customer experience" function adds a fifth silo.
 
 

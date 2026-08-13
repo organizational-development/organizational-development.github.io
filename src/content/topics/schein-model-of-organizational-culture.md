@@ -4,8 +4,8 @@ Edgar Schein defined organizational culture as:
 
 > A pattern of shared basic assumptions that the group learned as it solved its
 > problems of external adaptation and internal integration, that has worked well
-> enough to be considered valid and, therefore, to be taught to new members as
-> the correct way to perceive, think, and feel in relation to those problems.
+> enough to be considered valid and, therefore, to be taught to new members as >
+the correct way to perceive, think, and feel in relation to those problems.
 
 Two things follow. Culture is **learned solutions that worked**, which is why it
 is defended: it is the accumulated answer to real past problems. And culture
@@ -16,9 +16,9 @@ their culture yields the wrong layer.
 conceptual framework rather than a measurement model, and the inference of
 underlying assumptions from artifacts is interpretive by design. The
 leader-mechanism claims — that what leaders attend to, how they respond to
-crises, and who they promote shape culture more than formal statements do —
-have partial support from leadership and socialization research. Conceptually
-strong, operationally soft.
+crises, and who they promote shape culture more than formal statements do — have
+partial support from leadership and socialization research. Conceptually strong,
+operationally soft.
 
 Use when: a change keeps failing for reasons nobody can articulate; when stated
 values and actual behavior diverge; when integrating two organizations.
@@ -84,7 +84,8 @@ power:
 
 * **Health care**: espoused value "speak up for safety"; underlying assumption
   "the consultant is not questioned." The artifact that reveals it: who speaks
-  first on a ward round, and who never speaks. See [just-culture](../just-culture/),
+  first on a ward round, and who never speaks. See
+  [just-culture](../just-culture/),
   [crew-resource-management](../crew-resource-management/).
 
 * **Software**: espoused "we value quality"; underlying assumption "shipping on
@@ -103,8 +104,8 @@ power:
 
 * Hard to measure; qualitative and interpretive.
 * Slow to change — years, not quarters.
-* "Culture" is used as a residual explanation for anything unexplained. Rule
-  it in only after structure, incentives, and workload have been excluded.
+* "Culture" is used as a residual explanation for anything unexplained. Rule it
+  in only after structure, incentives, and workload have been excluded.
 
 
 ## See also

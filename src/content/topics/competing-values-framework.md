@@ -10,13 +10,13 @@ Axes:
 * **Flexibility and discretion** ↔ **Stability and control**
 * **Internal focus and integration** ↔ **External focus and differentiation**
 
-**Evidence: Moderate to good.** Among the better-evidenced culture
-instruments. The OCAI has a substantial psychometric literature and the
-two-dimensional structure has been replicated across many samples. Predictive
-validity is mixed: culture type correlates with some effectiveness measures,
-but the framework makes no causal claim that a given profile produces
-performance in a given context, and it should not be read as though it does.
-It measures orientation, not Schein's third level.
+**Evidence: Moderate to good.** Among the better-evidenced culture instruments.
+The OCAI has a substantial psychometric literature and the two-dimensional
+structure has been replicated across many samples. Predictive validity is mixed:
+culture type correlates with some effectiveness measures, but the framework
+makes no causal claim that a given profile produces performance in a given
+context, and it should not be read as though it does. It measures orientation,
+not Schein's third level.
 
 Use when: you need a comparable, quantified read on culture, especially to
 compare current vs. preferred, or unit vs. unit, or acquirer vs. acquired.
@@ -60,8 +60,8 @@ the conversation. Useful readings:
 * Large gap on one type: a clear directional mandate.
 * Leadership and frontline producing different "now" profiles: leadership does
   not know its own organization.
-* Different units with incompatible profiles: expect friction at their
-  boundary, and do not try to make them identical.
+* Different units with incompatible profiles: expect friction at their boundary,
+  and do not try to make them identical.
 * Everyone wants more Clan: usually a signal of exhaustion, not a culture
   strategy.
 
@@ -81,8 +81,8 @@ the conversation. Useful readings:
 
 * **Executive**: after an acquisition, run OCAI on both organizations before
   integration planning. An Adhocracy acquired by a Hierarchy will lose the
-  people who created the value being purchased, unless the integration explicitly
-  protects a different profile.
+  people who created the value being purchased, unless the integration
+  explicitly protects a different profile.
 
 
 ## Limitations
@@ -99,5 +99,7 @@ the conversation. Useful readings:
 
 * [schein-model-of-organizational-culture](../schein-model-of-organizational-culture/)
 * [westrum-organizational-culture-typology](../westrum-organizational-culture-typology/)
+* [hofstede-cultural-dimensions](../hofstede-cultural-dimensions/) — national
+  rather than organizational culture; do not confuse the two levels.
 * Cameron & Quinn, *Diagnosing and Changing Organizational Culture*.
 * <https://www.ocai-online.com>

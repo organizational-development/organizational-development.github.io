@@ -19,28 +19,36 @@ team score the same element three points apart, that divergence is the finding.
 ## Step 1: Diagnose the Hard Elements (Tangible & Structural)
 
    1. Strategy
-   * Question: Does our strategy clearly define our competitive advantage, market positioning, and growth goals? Do our daily actions reflect this plan?
+   * Question: Does our strategy clearly define our competitive advantage,
+     market positioning, and growth goals? Do our daily actions reflect this
+     plan?
       * Rating (1–5): [ ]
    2. Structure
-   * Question: Are our reporting lines, decision-making hierarchies, and team boundaries logical for executing our strategy without bottlenecks?
+   * Question: Are our reporting lines, decision-making hierarchies, and team
+     boundaries logical for executing our strategy without bottlenecks?
       * Rating (1–5): [ ]
    3. Systems
-   * Question: Do our daily operational tools, IT platforms, reward tracking, and formal workflows make work easier and support our objectives?
+   * Question: Do our daily operational tools, IT platforms, reward tracking,
+     and formal workflows make work easier and support our objectives?
       * Rating (1–5): [ ]
    
 ## Step 2: Diagnose the Soft Elements (Cultural & Human)
 
    1. Shared Values (Core)
-   * Question: Are our core organizational values widely understood and genuinely lived by employees, rather than just written on a wall?
+   * Question: Are our core organizational values widely understood and
+     genuinely lived by employees, rather than just written on a wall?
       * Rating (1–5): [ ]
    2. Style
-   * Question: Do our leaders behave in a way that matches what they preach? Is leadership communication open, supportive, and action-oriented?
+   * Question: Do our leaders behave in a way that matches what they preach? Is
+     leadership communication open, supportive, and action-oriented?
       * Rating (1–5): [ ]
    3. Staff
-   * Question: Do we have the right number of people with adequate support, onboarding, and career paths to sustain our workload?
+   * Question: Do we have the right number of people with adequate support,
+     onboarding, and career paths to sustain our workload?
       * Rating (1–5): [ ]
    4. Skills
-   * Question: Does our workforce possess the right mix of technical, digital, and interpersonal competencies to hit our strategic goals?
+   * Question: Does our workforce possess the right mix of technical, digital,
+     and interpersonal competencies to hit our strategic goals?
       * Rating (1–5): [ ]
    
 ## Step 3: Analysis
@@ -67,4 +75,5 @@ team score the same element three points apart, that divergence is the finding.
   a specific breakdown is flagged here, trace it upstream with
   [burke-litwin-causal-model-questionnaire](../burke-litwin-causal-model-questionnaire/)
   to determine whether the cause is transformational or transactional. Scan the
-  environment with [pestle-analysis-questionnaire](../pestle-analysis-questionnaire/).
+  environment with
+  [pestle-analysis-questionnaire](../pestle-analysis-questionnaire/).

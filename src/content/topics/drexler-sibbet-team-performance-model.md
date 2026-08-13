@@ -44,14 +44,15 @@ intervene in a working team.
 
 ## How to use it as a diagnostic
 
-Ask the team to rate each of the seven questions as resolved / partly / unresolved,
-individually and anonymously, then compare. Two patterns are informative:
+Ask the team to rate each of the seven questions as resolved / partly /
+unresolved, individually and anonymously, then compare. Two patterns are
+informative:
 
 * **The team disagrees about which stage is unresolved.** That disagreement is
   itself the finding, and usually points at stage 1 or 3.
-* **A late-stage symptom with an early-stage cause.** Missed deadlines
-  (stage 5) are very often unclear goals (stage 3) or absent commitment
-  (stage 4). Fixing the symptom with more project management fails.
+* **A late-stage symptom with an early-stage cause.** Missed deadlines (stage 5)
+  are very often unclear goals (stage 3) or absent commitment (stage 4). Fixing
+  the symptom with more project management fails.
 
 The model is explicitly non-linear: teams revisit earlier stages whenever
 membership, purpose, or context changes. A new manager resets stages 1 and 2 for
@@ -71,8 +72,8 @@ everyone, whether or not anyone acknowledges it.
 
 * **Executive**: a newly appointed executive team spends its first months at
   stage 5 because the calendar demands output. Stages 1–4 then surface as
-  slow-motion conflict about scope and authority for the following year.
-  Invest the two days early.
+  slow-motion conflict about scope and authority for the following year. Invest
+  the two days early.
 
 
 ## Limitations

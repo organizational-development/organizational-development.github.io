@@ -41,9 +41,9 @@ uninterpretable without knowing what was measured.
   manager's local unit. Note its design: nearly every item is actionable by a
   frontline manager, which is deliberate.
 * **UWES** — academic work engagement scale.
-* **eNPS** — "how likely are you to recommend this as a place to work?"
-  Single item; cheap, noisy, heavily influenced by recent events, and
-  frequently over-interpreted.
+* **eNPS** — "how likely are you to recommend this as a place to work?" Single
+  item; cheap, noisy, heavily influenced by recent events, and frequently
+  over-interpreted.
 * **Custom** — usually a mixture, often with poor psychometrics, often too long.
 
 

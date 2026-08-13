@@ -1,8 +1,8 @@
 # Plan-Do-Study-Act and the Model for Improvement
 
-PDSA is the improvement cycle from Walter Shewhart and W. Edwards Deming.
-Deming insisted on **Study** rather than the older "Check", because the point is
-to learn from the comparison of prediction to result, not merely to inspect.
+PDSA is the improvement cycle from Walter Shewhart and W. Edwards Deming. Deming
+insisted on **Study** rather than the older "Check", because the point is to
+learn from the comparison of prediction to result, not merely to inspect.
 
 The **Model for Improvement** (Associates in Process Improvement; popularized by
 the Institute for Healthcare Improvement) wraps PDSA in three questions asked

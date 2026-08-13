@@ -150,8 +150,8 @@ most valuable one on the sheet.
   confidence, high impact, and routinely ignored because they are not urgent
   yet.
 
-* **PESTLE says nothing about competitors specifically.** Pair with Porter's five
-  forces if competitive dynamics are the live question.
+* **PESTLE says nothing about competitors specifically.** Pair with Porter's
+  five forces if competitive dynamics are the live question.
 
 * **Feed the output into the diagnostic.** The external environment is the input
   factor in

@@ -11,14 +11,13 @@ skill. They were caused by junior crew being unable to effectively challenge a
 captain who was wrong.
 
 **Evidence: Good in aviation, moderate to good in health care.** Among the
-better-evidenced interventions here. Aviation adoption coincided with
-sustained accident reduction, though confounded by many simultaneous safety
-improvements. In health care, systematic reviews of team training find
-consistent improvements in teamwork behaviors and knowledge, and improvements
-in clinical outcomes in several large studies, with substantial heterogeneity.
-Programs that work share features: multidisciplinary, simulation-based, with
-leadership participation and sustained reinforcement. One-off e-learning does
-not work.
+better-evidenced interventions here. Aviation adoption coincided with sustained
+accident reduction, though confounded by many simultaneous safety improvements.
+In health care, systematic reviews of team training find consistent improvements
+in teamwork behaviors and knowledge, and improvements in clinical outcomes in
+several large studies, with substantial heterogeneity. Programs that work share
+features: multidisciplinary, simulation-based, with leadership participation and
+sustained reinforcement. One-off e-learning does not work.
 
 Use when: hierarchy suppresses safety-critical information; when handovers fail;
 when "someone knew but didn't say" appears in an incident report.
@@ -123,3 +122,5 @@ and no senior participation.
 * [psychological-safety](../psychological-safety/)
 * [just-culture](../just-culture/)
 * [high-reliability-organizations](../high-reliability-organizations/)
+* [hofstede-cultural-dimensions](../hofstede-cultural-dimensions/) — why graded
+  assertiveness matters most where the power distance gradient is steepest.

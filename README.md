@@ -14,8 +14,9 @@ This repository is only the site that renders it: SvelteKit, the
 * **The guide** at `/guide/` — the source `README.md`, split into one page per
   part, with its cross-references rewritten to work across the pages.
 * **The topics** at `/topics/` — one page per model, framework, method, and
-  system, grouped into the six families the source specification defines, with
-  each diagnostic model shown beside its paired questionnaire.
+  system, grouped into the seven families of the source repository's canonical
+  `topics/index.md` inventory, with each diagnostic model shown beside its
+  paired questionnaire.
 * **The evidence table** at `/evidence/` — every labelled topic ranked from
   `Strong` to `Very weak`, with the specific methodological objection quoted.
   This is the collection's distinguishing claim, so it gets its own page.

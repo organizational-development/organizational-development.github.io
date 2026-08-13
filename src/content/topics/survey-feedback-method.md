@@ -1,8 +1,9 @@
 # Survey feedback method
 
-The survey feedback method is one of the two founding OD interventions, alongside
-[action-research](../action-research/). Developed at the University of Michigan's
-Survey Research Center by Rensis Likert and Floyd Mann in the late 1940s.
+The survey feedback method is one of the two founding OD interventions,
+alongside [action-research](../action-research/). Developed at the University of
+Michigan's Survey Research Center by Rensis Likert and Floyd Mann in the late
+1940s.
 
 The finding that created the method: **collecting survey data changes nothing;
 feeding it back and working with it does.** Mann's studies showed that units
@@ -10,12 +11,12 @@ where managers discussed the results with their teams improved, while units that
 received the same report without discussion did not.
 
 **Evidence: Good.** One of the few OD interventions with early controlled
-evidence. The Michigan studies found that units where managers discussed
-results with their own teams improved while units receiving the same report
-without discussion did not, and later meta-analyses of OD interventions placed
-survey feedback among the more effective approaches. The corollary is equally
-well attested: collecting data without feeding it back produces no improvement
-and measurably reduces trust.
+evidence. The Michigan studies found that units where managers discussed results
+with their own teams improved while units receiving the same report without
+discussion did not, and later meta-analyses of OD interventions placed survey
+feedback among the more effective approaches. The corollary is equally well
+attested: collecting data without feeding it back produces no improvement and
+measurably reduces trust.
 
 Use when: you have organizational data and want it to produce change rather than
 a report.

@@ -62,6 +62,19 @@ topics" and the build prints a warning naming it. Questionnaires are never
 listed: `<model>-questionnaire` inherits its model's family automatically and is
 rendered beside it.
 
+**Take the grouping from upstream, not from taste.** The families and their
+order mirror `topics/index.md` in the source repository, which is its canonical
+inventory. Re-grouping here would mean a reader who finds `just-culture` under
+*Culture models* upstream finds it somewhere else on the site. If a grouping
+looks wrong, argue it upstream and re-sync.
+
+The sync is one-directional and the site always loses:
+
+```sh
+pnpm sync     # copies README.md and topics/<name>/index.md into src/content/
+pnpm build    # read the output: "[content]" warnings name unfiled topics
+```
+
 ## Before committing
 
 ```sh

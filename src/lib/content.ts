@@ -122,13 +122,17 @@ export type Family = {
 };
 
 /**
- * The six families, in the order the source repository's `spec/index.md`
- * inventory lists them.
+ * The seven families, in the order and grouping of the source repository's
+ * `topics/index.md`, which is its canonical inventory.
  *
  * Kept in sync by hand: the topic files record their own content but not the
  * grouping. `$lib/server/content.ts` cross-checks this list against the files
  * on disk at build time, so a topic added upstream and forgotten here is a
  * build warning rather than a page that quietly never appears.
+ *
+ * Do not re-group these to taste. The guide, the source inventory, and this
+ * site are read side by side, and a reader who finds `just-culture` under
+ * "Culture models" upstream should not find it under something else here.
  */
 export const FAMILIES: Family[] = [
   {
@@ -140,6 +144,7 @@ export const FAMILIES: Family[] = [
       'entry-and-contracting',
       'action-research',
       'evidence-based-practice',
+      'discredited-instruments',
       'od-ethics',
       'systems-thinking',
       'sociotechnical-systems',
@@ -176,10 +181,10 @@ export const FAMILIES: Family[] = [
       'lewin-change-model',
       'kotter-8-step-change-model',
       'adkar-change-management-model',
-      'bridges-transition-model',
-      'kubler-ross-change-curve',
-      'satir-change-model',
       'beckhard-harris-change-equation',
+      'bridges-transition-model',
+      'satir-change-model',
+      'kubler-ross-change-curve',
       'rogers-diffusion-of-innovations',
       'switch-framework',
       'mckinsey-influence-model',
@@ -189,23 +194,33 @@ export const FAMILIES: Family[] = [
     ]
   },
   {
-    id: 'culture-teams-people',
-    title: 'Culture, team, and human models',
-    tagline: 'the behaviour of groups and the motivation of the people in them',
+    id: 'culture-models',
+    title: 'Culture models',
+    tagline: 'what culture is, how to read it, and what actually moves it',
     slugs: [
       'schein-model-of-organizational-culture',
       'competing-values-framework',
       'westrum-organizational-culture-typology',
       'hofstede-cultural-dimensions',
-      'just-culture',
+      'just-culture'
+    ]
+  },
+  {
+    id: 'team-and-individual-models',
+    title: 'Team and individual models',
+    tagline: 'the behaviour of groups and the motivation of the people in them',
+    slugs: [
       'psychological-safety',
+      'google-project-aristotle',
       'tuckman-stages-of-group-development',
       'lencioni-five-dysfunctions-of-a-team',
       'drexler-sibbet-team-performance-model',
-      'google-project-aristotle',
       'crew-resource-management',
       'thomas-kilmann-conflict-modes',
       'self-determination-theory',
+      'goal-setting-theory',
+      'burnout',
+      'transformational-leadership',
       'herzberg-two-factor-theory',
       'maslow-hierarchy-of-needs',
       'job-characteristics-model',
@@ -218,7 +233,7 @@ export const FAMILIES: Family[] = [
   },
   {
     id: 'facilitation-methods',
-    title: 'Large-group and facilitation methods',
+    title: 'Facilitation and large-group methods',
     tagline: 'ways to convene many people and come out with something usable',
     slugs: [
       'appreciative-inquiry',

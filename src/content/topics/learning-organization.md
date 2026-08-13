@@ -8,12 +8,11 @@ to learn together."
 
 **Evidence: Weak.** Aspirational, influential, and largely unfalsifiable as
 stated. There is little evidence that the five disciplines produce measurable
-outcomes, and no accepted measure of whether an organization is one.
-Individual operational mechanisms described here are better supported —
-structured debriefs in particular, see
-[after-action-review](../after-action-review/). The learning disabilities list
-is more useful in practice than the disciplines, because each names a
-recognizable and checkable pattern.
+outcomes, and no accepted measure of whether an organization is one. Individual
+operational mechanisms described here are better supported — structured debriefs
+in particular, see [after-action-review](../after-action-review/). The learning
+disabilities list is more useful in practice than the disciplines, because each
+names a recognizable and checkable pattern.
 
 Use when: the organization solves the same problem repeatedly; when improvement
 depends on one department; when the environment changes faster than the
@@ -65,9 +64,9 @@ than the disciplines themselves:
 * **The parable of the boiled frog** — inability to perceive slow change.
 * **The delusion of learning from experience** — the most consequential
   decisions have consequences beyond the horizon in which we can observe them.
-* **The myth of the management team** — a group that presents unity outwardly and
-  suppresses disagreement inwardly, and is therefore "skilled at keeping itself
-  from learning". See
+* **The myth of the management team** — a group that presents unity outwardly
+  and suppresses disagreement inwardly, and is therefore "skilled at keeping
+  itself from learning". See
   [lencioni-five-dysfunctions-of-a-team](../lencioni-five-dysfunctions-of-a-team/).
 
 
@@ -109,8 +108,7 @@ The concept fails when it stays abstract. Concrete mechanisms:
 
 ## Limitations
 
-* Aspirational and hard to falsify; "learning organization" has become a
-  slogan.
+* Aspirational and hard to falsify; "learning organization" has become a slogan.
 * Little empirical evidence that the five disciplines produce measurable
   outcomes.
 * Requires slack, long horizons, and leadership humility — three things under

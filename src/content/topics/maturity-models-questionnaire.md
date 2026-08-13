@@ -144,13 +144,14 @@ Use this before adopting any published or vendor maturity model.
   aspiration, not an obligation. The right target is the level at which the
   capability stops causing you problems.
 
-* **Part B: a total below 18 out of 30 means write your own.** Build it bottom-up
-  from characteristics your own people recognize, then cluster them into levels.
-  A model that fits your context and was written by your own practitioners will
-  be used; a model imported wholesale will be filled in and filed.
+* **Part B: a total below 18 out of 30 means write your own.** Build it
+  bottom-up from characteristics your own people recognize, then cluster them
+  into levels. A model that fits your context and was written by your own
+  practitioners will be used; a model imported wholesale will be filled in and
+  filed.
 
-* **A low B6 score is disqualifying.** If low scores carry consequences, you will
-  measure compliance and reporting behavior rather than capability. See
+* **A low B6 score is disqualifying.** If low scores carry consequences, you
+  will measure compliance and reporting behavior rather than capability. See
   [measurement-and-metrics](../measurement-and-metrics/).
 
 * **For delivery capability specifically, prefer outcome measures to maturity

@@ -5,7 +5,14 @@ export function load() {
   const topics = allTopics();
 
   /**
-   * How the 82 topics distribute across evidence strengths.
+   * Models only — a questionnaire inherits the rating of the model it
+   * operationalizes, so counting both would inflate every bucket and disagree
+   * with the distribution the source repository publishes.
+   */
+  const models = topics.filter((topic) => !topic.model);
+
+  /**
+   * How the models distribute across evidence strengths.
    *
    * This is the site's most honest single number, and the reason the home page
    * leads with it: most published OD writing presents every framework as
@@ -13,7 +20,7 @@ export function load() {
    */
   const distribution = STRENGTHS.map((strength: Strength) => ({
     strength,
-    count: topics.filter((topic) => topic.evidence?.strength === strength).length
+    count: models.filter((topic) => topic.evidence?.strength === strength).length
   }))
     .filter((entry) => entry.count > 0)
     .sort((a, b) => rank(a.strength) - rank(b.strength));
@@ -36,6 +43,7 @@ export function load() {
         .map(({ slug, title: name, evidence }) => ({ slug, title: name, evidence }))
     })),
     distribution,
-    topicCount: topics.length
+    topicCount: topics.length,
+    modelCount: models.length
   };
 }

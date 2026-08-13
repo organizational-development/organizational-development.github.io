@@ -13,9 +13,9 @@ productivity.
 validated SPACE instrument and no prescribed metric set, so it cannot be
 benchmarked the way [dora-metrics](../dora-metrics/) can. The claim it rests on
 is well supported: single-metric productivity measurement produces distortion,
-and activity counts do not track outcomes. Its authors' central warning
-against individual-level measurement is consistent with the wider evidence on
-metric gaming.
+and activity counts do not track outcomes. Its authors' central warning against
+individual-level measurement is consistent with the wider evidence on metric
+gaming.
 
 Use when: measuring knowledge-worker productivity without reducing it to output
 counting; countering a request for "a developer productivity metric".
@@ -32,8 +32,8 @@ explicitly warn against this.
    gain purchased by burning people is a loss on a delay.
 
 2. **Performance** — the outcome of the work. Quality, reliability, customer
-   satisfaction, business impact. Hard to attribute to individuals, which is
-   the point.
+   satisfaction, business impact. Hard to attribute to individuals, which is the
+   point.
 
 3. **Activity** — counts of actions: commits, pull requests, deployments,
    documents, tickets closed. The easiest to collect and the most misleading in
@@ -78,7 +78,7 @@ Note the balance: if flow improves while satisfaction falls, the gain is being
 paid for out of people.
 
 
-## Applying it beyond software
+## Examples by audience
 
 The dimensions generalize directly to other knowledge work.
 
@@ -91,9 +91,9 @@ The dimensions generalize directly to other knowledge work.
   invisible in management data.
 
 * **Software**: the native domain. The most common institutional failure is a
-  leadership request for "lines of code" or "story points per engineer" — a
-  pure Activity metric at the individual level, which is the exact combination
-  the framework exists to refuse.
+  leadership request for "lines of code" or "story points per engineer" — a pure
+  Activity metric at the individual level, which is the exact combination the
+  framework exists to refuse.
 
 * **Executive**: when asked for a single productivity number, offer a set of
   three to five spanning the dimensions instead, and explain that the single

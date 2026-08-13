@@ -5,8 +5,8 @@ Chris Argyris and Donald Schön distinguished two kinds of learning:
 * **Single-loop learning**: detect an error and correct the action, leaving the
   governing variables — goals, values, assumptions, rules — unchanged. "We
   missed the target; work harder."
-* **Double-loop learning**: detect an error and question the governing
-  variables themselves. "Why is that the target? Is it the right target?"
+* **Double-loop learning**: detect an error and question the governing variables
+  themselves. "Why is that the target? Is it the right target?"
 
 Most organizations are competent at single-loop and structurally incapable of
 double-loop, because double-loop learning requires questioning things that
@@ -17,8 +17,8 @@ documented and easily demonstrated, and it remains one of the most useful
 observations in the field. Model I and Model II are clinically derived from
 extensive observation rather than experimentally validated, and Argyris's own
 finding — that people trained in Model II revert under stress — has not been
-systematically tested. The ladder of inference is a facilitation heuristic,
-not a cognitive model.
+systematically tested. The ladder of inference is a facilitation heuristic, not
+a cognitive model.
 
 Use when: the same class of problem recurs despite repeated corrective action;
 when an organization is efficiently pursuing the wrong objective.

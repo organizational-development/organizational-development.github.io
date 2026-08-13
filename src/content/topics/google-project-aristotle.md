@@ -4,13 +4,13 @@ Project Aristotle was Google's internal study of what makes teams effective. It
 examined 180 teams over two years with quantitative and qualitative methods, and
 is notable for what it *failed* to find as much as for what it found.
 
-**Evidence: Moderate.** A large, well-resourced internal study of 180 teams,
-but correlational, largely self-report, conducted in a single company, and
-never peer reviewed. Its null results may reflect restricted range, since
-every employee studied was already selected for high ability. Its value is
-convergent: the top finding independently reproduces the external
-[psychological-safety](../psychological-safety/) literature, which is strong.
-Do not cite it as a universal law.
+**Evidence: Moderate.** A large, well-resourced internal study of 180 teams, but
+correlational, largely self-report, conducted in a single company, and never
+peer reviewed. Its null results may reflect restricted range, since every
+employee studied was already selected for high ability. Its value is convergent:
+the top finding independently reproduces the external
+[psychological-safety](../psychological-safety/) literature, which is strong. Do
+not cite it as a universal law.
 
 Use when: countering the belief that team effectiveness comes from assembling
 the best individuals, or from personality mix.
@@ -50,9 +50,8 @@ In descending order of importance as reported:
    personally, not organizationally. What counts as meaningful differs by
    person.
 
-5. **Impact** — do we believe the work matters and creates change? Distinct
-   from meaning: this is about consequence in the world, not personal
-   significance.
+5. **Impact** — do we believe the work matters and creates change? Distinct from
+   meaning: this is about consequence in the world, not personal significance.
 
 
 ## How the factors interact
@@ -71,9 +70,9 @@ concept. Edmondson's own 2x2 makes the same point. See
 ## Examples by audience
 
 * **Health care**: factor 3 (structure and clarity) is frequently the binding
-  constraint in multidisciplinary teams, where role boundaries are contested
-  and nobody wants to name it. Factors 4 and 5 are usually strong — health care
-  work is meaningful and consequential — which is why erosion of 1 and 3 is so
+  constraint in multidisciplinary teams, where role boundaries are contested and
+  nobody wants to name it. Factors 4 and 5 are usually strong — health care work
+  is meaningful and consequential — which is why erosion of 1 and 3 is so
   demoralizing.
 
 * **Software**: hiring processes optimize hard for individual ability, which the

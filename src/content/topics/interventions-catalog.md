@@ -11,9 +11,9 @@ will not fix a structural constraint, and a restructure will not fix distrust.
 **Evidence: Not an empirical model — a taxonomy.** The four-family
 classification is an organizing convention. Evidence varies enormously between
 the interventions inside it: work design and goal setting are strongly
-supported, survey feedback and structured debriefs are well supported, and
-most team-building and values programs are not. Check the individual file
-before assuming a family's reputation transfers to a specific intervention.
+supported, survey feedback and structured debriefs are well supported, and most
+team-building and values programs are not. Check the individual file before
+assuming a family's reputation transfers to a specific intervention.
 
 Use when: you have a diagnosis and need to choose what to actually do; when a
 sponsor has proposed an intervention and you want to check it against what the
@@ -118,6 +118,36 @@ has not, or identity and direction are genuinely contested.
   undefined.
 * Sequence trust work before structural work when the last three restructures
   failed; nobody will engage honestly otherwise.
+
+
+## Examples by audience
+
+* **Health care**: a ward reporting rising medication errors gets a human
+  process intervention in most organizations — communication training. The
+  diagnosis usually calls for a technostructural one: protect the drug round
+  from interruption. Training the people while leaving the interruption rate
+  unchanged addresses the wrong family entirely.
+
+* **Software**: "we need more engineers" proposes an HRM intervention for what
+  is nearly always a technostructural problem — a queue, a shared pipeline, an
+  approval gate. Adding people to a constrained system increases contention on
+  the constraint. See [systems-thinking](../systems-thinking/).
+
+* **Executive**: strategic interventions are the family executives reach for
+  first, because they are the family executives control directly — a new vision,
+  a values relaunch, a restructure. They are also the slowest to show effect and
+  the easiest to launch without a diagnosis. Ask which family the diagnosis
+  actually points to before choosing.
+
+
+## Limitations
+
+* The four families are an organizing convention, not a validated taxonomy, and
+  real interventions frequently span two of them.
+* Evidence varies enormously *within* each family; a family's reputation does
+  not transfer to a specific intervention inside it.
+* The catalog says nothing about sequencing or dosage on its own. See the
+  guidance above, and [od-process-cycle](../od-process-cycle/).
 
 
 ## See also

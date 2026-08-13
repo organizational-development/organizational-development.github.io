@@ -5,12 +5,12 @@ Bruce Tuckman's 1965 model: **forming, storming, norming, performing**, with
 existence and one of the least empirically supported.
 
 **Evidence: Weak.** A 1965 literature review of roughly 50 studies, mostly of
-therapy and training groups rather than work teams. Later research does not
-find that teams reliably pass through these stages in this order; Gersick's
+therapy and training groups rather than work teams. Later research does not find
+that teams reliably pass through these stages in this order; Gersick's
 punctuated equilibrium work suggests a quite different pattern, with an abrupt
-transition near the temporal midpoint. The model also assumes stable
-membership, which most modern teams do not have. One message survives: early
-conflict in a new team is normal.
+transition near the temporal midpoint. The model also assumes stable membership,
+which most modern teams do not have. One message survives: early conflict in a
+new team is normal.
 
 Use when: normalizing early team conflict so a new team does not conclude it is
 broken; giving a leader vocabulary for what to expect.

@@ -5,13 +5,13 @@ of five stacked dysfunctions, each enabling the one above it. It is widely used
 with leadership teams because it is memorable and it names the avoidance
 patterns executives recognize in themselves.
 
-**Evidence: Weak.** A business fable, not research: no validation, no sample,
-no measurement. It remains popular because executives recognize themselves in
-it, which is a fact about resonance rather than about accuracy. Its first
-level overlaps heavily with [psychological-safety](../psychological-safety/),
-which covers similar ground with far better evidence, and the commitment
-principle — people commit to decisions they disagree with if they were
-genuinely heard — is consistent with procedural justice research.
+**Evidence: Weak.** A business fable, not research: no validation, no sample, no
+measurement. It remains popular because executives recognize themselves in it,
+which is a fact about resonance rather than about accuracy. Its first level
+overlaps heavily with [psychological-safety](../psychological-safety/), which
+covers similar ground with far better evidence, and the commitment principle —
+people commit to decisions they disagree with if they were genuinely heard — is
+consistent with procedural justice research.
 
 Use when: working with an intact leadership team that is polite, busy, and not
 achieving much together.

@@ -130,12 +130,14 @@ examine those three.
   described as "resistance to change" and are actually accurate reports of a
   real cost. See [bridges-transition-model](../bridges-transition-model/).
 
-* **High Structure-authority scores mean this is a power change**, whatever it is
-  being called. Power changes announced as tooling changes are detected quickly
-  and resented durably.
+* **High Structure-authority scores mean this is a power change**, whatever it
+  is being called. Power changes announced as tooling changes are detected
+  quickly and resented durably.
 
 * **This model has no environment term.** It will tell you nothing about whether
   the change is right, only about what else it will move. Pair it with a real
-  diagnostic: [nadler-tushman-congruence-model-questionnaire](../nadler-tushman-congruence-model-questionnaire/)
-  for fit, or [galbraith-star-model-questionnaire](../galbraith-star-model-questionnaire/)
+  diagnostic:
+  [nadler-tushman-congruence-model-questionnaire](../nadler-tushman-congruence-model-questionnaire/)
+  for fit, or
+  [galbraith-star-model-questionnaire](../galbraith-star-model-questionnaire/)
   for structural decisions.

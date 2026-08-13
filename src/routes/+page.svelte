@@ -70,9 +70,10 @@
     />
     <p>
       Each model carries an evidence label with a specific, named objection rather than a generic
-      hedge. Across {data.topicCount} topics the distribution is unflattering to the field — and that
+      hedge. Across {data.modelCount} models the distribution is unflattering to the field — and that
       is the accurate picture. A weak model can still be a useful vocabulary; the label says which
-      job it can and cannot do.
+      job it can and cannot do. Questionnaires are not counted here: each one inherits the rating of
+      the model it operationalizes.
     </p>
     <!--
       A scrollable region must be keyboard reachable (WCAG 2.1.1), which is
@@ -107,7 +108,7 @@
     <SectionHeading
       id="the-families"
       heading="Where to start"
-      subtitle="Six families of material. Diagnose before you change; measure before you claim."
+      subtitle="Seven families of material. Diagnose before you change; measure before you claim."
     />
     <div class="home-grid">
       {#each data.families as family (family.id)}

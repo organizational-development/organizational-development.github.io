@@ -60,8 +60,9 @@ ties differ from actual ties.
 
 ### B5. Data handling
 
-- Question: Are retention period, storage location, deletion date, and applicable
-  regime (GDPR/UK GDPR, HIPAA, works council or union agreements) all settled?
+- Question: Are retention period, storage location, deletion date, and
+  applicable regime (GDPR/UK GDPR, HIPAA, works council or union agreements) all
+  settled?
   - Rating (1–5): [ ]
 
 **Any B2 or B3 item scoring below 5 stops the exercise.** These are not
@@ -78,8 +79,8 @@ Suggested cap: three networks, five names each.
 
 ### A1. Information network
 
-- Question: Who do you go to for the information you need to do your job?
-  Name up to five people.
+- Question: Who do you go to for the information you need to do your job? Name
+  up to five people.
   1. ____________________
   2. ____________________
   3. ____________________
@@ -161,8 +162,8 @@ has agreed.
   single most useful output of an ONA, and the one most likely to change how
   leadership plans a change programme.
 
-* **Recruit early adopters from the map, not from the hierarchy.** Change spreads
-  through respected connectors. See
+* **Recruit early adopters from the map, not from the hierarchy.** Change
+  spreads through respected connectors. See
   [rogers-diffusion-of-innovations](../rogers-diffusion-of-innovations/).
 
 * **Report a response rate with every map.** Below 70%, say plainly that the map

@@ -10,12 +10,12 @@ its overall functioning, because good information flow requires everything else
 to be working.
 
 **Evidence: Good.** Unusually strong for a culture model. Developed from
-safety-critical industry case studies, then operationalized as a six-item
-scale and validated in large-sample software delivery research, where
-generative culture statistically predicts both delivery performance and
-organizational performance. The evidence is correlational and self-report, and
-the typology flattens what is really a continuum, but the construct-to-outcome
-chain is better established here than almost anywhere else in this collection.
+safety-critical industry case studies, then operationalized as a six-item scale
+and validated in large-sample software delivery research, where generative
+culture statistically predicts both delivery performance and organizational
+performance. The evidence is correlational and self-report, and the typology
+flattens what is really a continuum, but the construct-to-outcome chain is
+better established here than almost anywhere else in this collection.
 
 Use when: assessing whether an organization can learn from problems; predicting
 whether risk information reaches decision-makers; measuring safety or delivery
@@ -45,8 +45,8 @@ follow from a power orientation.
 ## Why "failure leads to inquiry" is the key row
 
 In a pathological culture, the question after a failure is *who*. In a
-bureaucratic culture, it is *which rule was broken*. In a generative culture,
-it is *what about our system made this the reasonable thing to do*.
+bureaucratic culture, it is *which rule was broken*. In a generative culture, it
+is *what about our system made this the reasonable thing to do*.
 
 Only the third produces learning. The first two produce hidden information,
 which is the precondition for the next, larger failure. See
@@ -120,9 +120,18 @@ That asymmetry is the whole problem.
 * Typology, so it flattens the continuum.
 
 
+## Questionnaire
+
+A paired, copy-and-use instrument for this model:
+[westrum-organizational-culture-typology-questionnaire](../westrum-organizational-culture-typology-questionnaire/).
+It carries the validated six-item scale, a placement grid across all seven
+dimensions, and behavioral evidence to check the scale against.
+
+
 ## See also
 
 * [psychological-safety](../psychological-safety/)
 * [just-culture](../just-culture/)
 * [high-reliability-organizations](../high-reliability-organizations/)
-* Westrum, "A typology of organisational cultures", *Qual Saf Health Care* (2004).
+* Westrum, "A typology of organisational cultures", *Qual Saf Health Care*
+  (2004).

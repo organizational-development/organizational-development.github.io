@@ -123,17 +123,15 @@ Pair quadrants to generate named strategic options. Each option needs an owner.
 ## Step 6: Analysis
 
 * **The deliverable is the Step 5 options list, not the four quadrants.** If the
-  session ends at Step 4, nothing has been decided and the exercise was
-  theater.
+  session ends at Step 4, nothing has been decided and the exercise was theater.
 
 * **Low confidence scores are the finding.** A grid full of 2s means the
   organization is running on assertion. The action is to go and find out, not to
   proceed with the strategy.
 
 * **Check for the classic errors.** Items with no comparison point; items mixing
-  magnitudes ("world-class clinicians" beside "the printer is broken");
-  external factors filed as internal; and consensus lists that hide real
-  disagreement.
+  magnitudes ("world-class clinicians" beside "the printer is broken"); external
+  factors filed as internal; and consensus lists that hide real disagreement.
 
 * **Disagreement is more useful than the grid.** Have people fill it in
   individually before combining. Where two leaders disagree about whether

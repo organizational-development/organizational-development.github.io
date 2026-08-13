@@ -9,10 +9,10 @@ beyond software because the research established a statistical link between
 **Evidence: Good.** Large-sample, multi-year, repeatedly replicated across
 annual cohorts, and the finding that speed and stability move together rather
 than trading off has held up across many years of data. The evidence is
-correlational and originally survey-based with self-selected respondents, so
-the causal chain from culture to delivery to organizational performance is
-argued rather than experimentally established. Strong by the standards of this
-field; not a randomized trial.
+correlational and originally survey-based with self-selected respondents, so the
+causal chain from culture to delivery to organizational performance is argued
+rather than experimentally established. Strong by the standards of this field;
+not a randomized trial.
 
 Use when: measuring software delivery capability; making the case that culture
 work has operational consequences.
@@ -68,8 +68,8 @@ Other organizational capabilities the research identified as predictive:
 
 * **Team level, not individual.** Never per-person. There is no defensible
   individual DORA metric.
-* **Trend, not target.** Set a direction, not a number to hit, and expect
-  gaming if you set a number.
+* **Trend, not target.** Set a direction, not a number to hit, and expect gaming
+  if you set a number.
 * **All four together.** Deployment frequency alone incentivizes trivial
   deployments; change failure rate alone incentivizes never shipping.
 * **Instrument, do not survey.** Derive from the pipeline where possible.
@@ -120,4 +120,6 @@ Other organizational capabilities the research identified as predictive:
 * [space-framework](../space-framework/)
 * [westrum-organizational-culture-typology](../westrum-organizational-culture-typology/)
 * [measurement-and-metrics](../measurement-and-metrics/)
+* [transformational-leadership](../transformational-leadership/) — identified
+  in the same research as predictive of delivery performance.
 * Forsgren, Humble & Kim, *Accelerate*.

@@ -11,16 +11,16 @@ optimization**.
 
 **Evidence: Moderate to good.** The original coal mining studies were
 case-based, but the core claim has accumulated wide support: technology
-implementations that ignore social arrangements underperform, and this is one
-of the most consistent findings in the information systems and health
-informatics literature. The work design principles overlap with the strongly
-supported [job-characteristics-model](../job-characteristics-model/).
+implementations that ignore social arrangements underperform, and this is one of
+the most consistent findings in the information systems and health informatics
+literature. The work design principles overlap with the strongly supported
+[job-characteristics-model](../job-characteristics-model/).
 
 Use when: introducing new technology, redesigning work, or explaining why a
 technically excellent system produced worse outcomes.
 
-Do not use when: the change is purely social with no technical component,
-though this is rarer than it looks.
+Do not use when: the change is purely social with no technical component, though
+this is rarer than it looks.
 
 
 ## Core principles

@@ -5,12 +5,12 @@ outcome you want, with the assumptions named. It originated in program
 evaluation and international development, and it is the most rigorous way to
 state what an OD program is actually claiming.
 
-**Evidence: Not a model — an evaluation method.** Widely required by funders
-and evaluators, and there is limited direct evidence that producing one
-improves program outcomes. Its defensible claim is narrower and does not need
-a trial: an intervention whose assumptions are written down in advance can be
-falsified, and one whose assumptions are not written down will be evaluated
-retrospectively against whatever happened. The discipline is the deliverable.
+**Evidence: Not a model — an evaluation method.** Widely required by funders and
+evaluators, and there is limited direct evidence that producing one improves
+program outcomes. Its defensible claim is narrower and does not need a trial: an
+intervention whose assumptions are written down in advance can be falsified, and
+one whose assumptions are not written down will be evaluated retrospectively
+against whatever happened. The discipline is the deliverable.
 
 Use when: launching any program you will later be asked to justify; when
 stakeholders disagree about what a program is for; when you want the program to
@@ -73,9 +73,9 @@ Assumptions, each stated explicitly:
 
 * Leaders can change behavior with coaching alone. *(Low confidence — test.)*
 * Reported safety translates to actual speaking-up behavior. *(Medium.)*
-* Higher reporting reflects better reporting, not more incidents.
-  *(Critical: this metric moves the wrong way if misread. Pre-agree the
-  interpretation with leadership before the data arrives.)*
+* Higher reporting reflects better reporting, not more incidents. *(Critical:
+  this metric moves the wrong way if misread. Pre-agree the interpretation with
+  leadership before the data arrives.)*
 * Earlier surfacing reduces harm rather than merely relocating it. *(Medium.)*
 
 The third assumption is the kind that sinks programs. A rising reporting rate is
@@ -101,8 +101,8 @@ success, and will be presented by someone as failure. Agree in advance.
 ## Limitations
 
 * Can become an elaborate document that is written once and never revisited.
-* Implies more linearity than complex systems allow; in the Complex domain
-  treat it as a hypothesis to be revised, not a plan. See
+* Implies more linearity than complex systems allow; in the Complex domain treat
+  it as a hypothesis to be revised, not a plan. See
   [cynefin-framework](../cynefin-framework/).
 * Vulnerable to reverse-engineering: writing the theory to justify an
   intervention already chosen.

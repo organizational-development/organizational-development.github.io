@@ -10,10 +10,10 @@ content is entirely the participants'.
 
 **Evidence: Weak.** Case-based, largely documented by its developers, with no
 controlled trials. Two design choices have independent support: getting the
-whole system in the room reflects the boundary-spanning finding that
-cross-unit contact reduces attribution error between groups, and the public
-admission step draws on well-established reciprocity and intergroup contact
-research. The three-day format and the five-task sequence are convention.
+whole system in the room reflects the boundary-spanning finding that cross-unit
+contact reduces attribution error between groups, and the public admission step
+draws on well-established reciprocity and intergroup contact research. The
+three-day format and the five-task sequence are convention.
 
 Use when: a complex issue crosses organizational boundaries, requires many
 parties to act, and no single party can solve it alone.

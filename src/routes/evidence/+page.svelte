@@ -30,7 +30,7 @@
     <p class="page-eyebrow">The honest table</p>
     <h1>What the evidence actually says</h1>
     <p class="page-lead">
-      {data.labelled} of the {data.labelled + data.unlabelled} topics carry an evidence label, ranked
+      All {data.labelled} models, frameworks, methods, and systems carry an evidence label, ranked
       here from strongest to weakest. Most published OD writing presents every framework as equally
       sound. This distribution is unflattering to the field, and it is the accurate picture.
     </p>
@@ -42,6 +42,17 @@
       throw it away. Several weak models are excellent shared vocabulary and terrible measurement
       instruments; the label and its justification say which. Where a better-evidenced alternative
       exists, the topic links to it.
+    </p>
+    <p>
+      The {data.questionnaires} questionnaires are not listed here. Each one operationalizes a model
+      and carries that model's rating, so counting them again would make the field look better than
+      it is.
+    </p>
+    <p>
+      A split rating — <em>Weak as a model, moderate in components</em> — is filed here under the
+      value it leads with, and the full label is shown beside it. The source repository's own table
+      counts split labels as a bucket of their own instead, so its columns are smaller than these
+      and the two are not in conflict.
     </p>
   </div>
 

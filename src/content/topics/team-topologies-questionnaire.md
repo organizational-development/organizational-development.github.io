@@ -11,8 +11,8 @@ boundaries.
 See [team-topologies](../team-topologies/).
 
 **Evidence: Weak as a whole, good in its components.** The four-type, three-mode
-scheme is untested. Its foundations — [conways-law](../conways-law/) and cognitive
-load — are much better supported.
+scheme is untested. Its foundations — [conways-law](../conways-law/) and
+cognitive load — are much better supported.
 
 
 ## Part A: Assess one team
@@ -100,8 +100,8 @@ For every pair of teams that interact regularly, complete one row.
 | | | | | | | [ ] |
 
 Modes: **Collaboration** (high bandwidth, temporary, for discovery),
-**X-as-a-Service** (low bandwidth, the target steady state),
-**Facilitating** (time-boxed helping).
+**X-as-a-Service** (low bandwidth, the target steady state), **Facilitating**
+(time-boxed helping).
 
 Then score:
 
@@ -112,8 +112,8 @@ Then score:
   coordination with no end date? (Score 5 for none.)
   - Rating (1–5): [ ]
 
-- Question: How many teams must be involved to release a typical change?
-  (Score 5 for one.)
+- Question: How many teams must be involved to release a typical change? (Score
+  5 for one.)
   - Rating (1–5): [ ]
 
 - Question: Do team boundaries match the boundaries of the systems, services, or
@@ -153,5 +153,5 @@ Then score:
   will resolve it in favor of the org chart.
 
 * **Beware ritual adoption.** Renaming existing teams to the four types without
-  changing boundaries, ownership, or interaction modes changes nothing and
-  makes the vocabulary useless for the next attempt.
+  changing boundaries, ownership, or interaction modes changes nothing and makes
+  the vocabulary useless for the next attempt.
